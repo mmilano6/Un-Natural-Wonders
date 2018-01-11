@@ -1,8 +1,8 @@
-<a href="https://vimeo.com/213448397"><img width="638" alt="screen shot 2018-01-10 at 10 24 43 pm" src="https://user-images.githubusercontent.com/30060990/34811324-1fbc0706-f655-11e7-8cad-e841719e71a4.png"></a>
+<a href="https://vimeo.com/213448397"><img width="638" alt="screen shot 2018-01-10 at 10 24 43 pm" src="https://user-images.githubusercontent.com/30060990/34811324-1fbc0706-f655-11e7-8cad-e841719e71a4.png"></br> Click to watch</a>
 
 Local #362: AI Post Retirements, explores how IoT devices, specifically devices with artificial intelligence and machine learning, will degrade over time, and their retirement, or lack there of, in our future neighborhoods. And more specifically how their failure occurs because of the human hand. I chose to root my piece the farming community, because of how advance the IoT technology already is. I picked cattle/ dairy farms because of the large spaces they take up. I find the fact that IoT devices being able to communicate over 100's of miles really interesting, espec	ially how it redefines what a neighborhood boundary is. As these devices become more and more common over time their infrastructure will decay.
 
-<a href="https://vimeo.com/213447058"><img width="639" alt="screen shot 2018-01-10 at 10 27 41 pm" src="https://user-images.githubusercontent.com/30060990/34811398-832faf36-f655-11e7-8e72-b792b9d2ee35.png"></a>
+<a href="https://vimeo.com/213447058"><img width="639" alt="screen shot 2018-01-10 at 10 27 41 pm" src="https://user-images.githubusercontent.com/30060990/34811398-832faf36-f655-11e7-8e72-b792b9d2ee35.png"></br> Click to watch</a>
 
 
 Previous / Next image (3 of 10)
