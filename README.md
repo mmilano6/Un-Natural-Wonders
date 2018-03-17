@@ -1,3 +1,5 @@
+<img width="361" alt="screen shot 2018-03-17 at 1 10 59 pm" src="https://user-images.githubusercontent.com/30060990/37559509-d3f360c6-29e4-11e8-9fe1-26ac34704195.png">
+
 This project consists of two main iterations. The first iteration is Local #362: AI Post Retirements, which led to
 Intelligent Devices Retirement Preserve: (un) Natural Wonders. Intelligent Devices Retirement Preserve: (un) Natural Wonders
 was exhibited Ars Electronica in 2017.  
