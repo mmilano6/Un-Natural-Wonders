@@ -9,3 +9,5 @@ in our future neighborhoods. And more specifically how their failure occurs beca
 Intelligent Devices Retirement Preserve: (un) Natural Wonders explores what life would be like for
 artificial intelligence algorithms, and the devices that they embody, if they had a choice to retire
 and do whatever they wanted.
+
+Intelligent Devices Retirement Preserve: (un) Natural Wonders was exhibited at Ars Electronica 2017. 
