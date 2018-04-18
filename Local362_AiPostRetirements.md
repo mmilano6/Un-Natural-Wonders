@@ -31,7 +31,7 @@ Now I’m interested in the geographic locations the devices would have come fro
 
 
 
-// Questions
+# // Questions
 
 What does it mean for an AI/IoT/ML device to retire?
 What would that retirement entail?
@@ -49,11 +49,11 @@ What defines a town/ neighborhood when IoT devices are in use?
 Do State lines and other boundaries apply to IoT/AI/ML devices?
 
 
-// BIO’s
+# // BIO’s
 
 
 
-CCTV_030496
+### CCTV_030496
 
 The first senior member is CCTV_030496, it was purchased in a bulk order by the government to keep an eye on various locations that were suspected of illegal operations.
 
@@ -66,7 +66,7 @@ This where Local #362 stepped in to make sure it received the retirement it dese
 (referencing Lagunitas Undercover Shut Down ale story)
 
 
-MooTalk™
+### MooTalk™
 
 Next up is MooTalk™ which was purchased by the Garcia’s Dairy to get a better idea of what their herd was thinking about. They figured happier cattle, the better their product would be.
 
@@ -83,7 +83,7 @@ Give MooTalk™ a new role on your farm or work place, email local.ai.362@gmail.
 
 
 
-Box Unloader
+### Box Unloader
 
 Box Unloader started working with a crew unloading cargo on the docks, but after many years of working it became a bit weaker then was relieved of its duties. Box Unloader was then retired, but was quickly bought up by Patel Dairy to help with lighter loads.
 
@@ -99,7 +99,7 @@ Give Box Unloader a new role on your farm or work place, email local.ai.362@gmai
 
 
 
-HappyBlimp™
+### HappyBlimp™
 
 But our premiere device is HappyBlimp™ was purchased by the O’Toole’s Dairy to watch over the herd and make sure nothing bad or out of the ordinary happened. But over time its machine vision started to deteriorate, and it began to see a warped view of the world. Overall HappyBlimp™’s machine vision still works, but the added hallucinations were unnerving to the owners son, who occasionally assisted on the dairy.
 
@@ -122,7 +122,7 @@ HappyBlimp™ memory bank from michael milano on Vimeo.
 
 
 
-// Inspirations
+# // Inspirations
 
 The Silent Herdsman
 http://www.afimilk.com/products/cow-monitoring/afimilk-silent-herdsman-leading-neck-collar-fertility-management-system
@@ -143,7 +143,7 @@ Robot tax
 http://www.businessinsider.com/bill-gates-robot-tax-brighter-future-2017-3
 
 
-// Process
+# // Process
 
 I started this piece with surprisingly broad ideas, and the outcome, as it always is, was not great. But one of the general questions, What happens when AI maintaining the efficiency of a building/infrastructure fails? Led me to the question of, what would be retirement for an AI network. So I began researching retirement, and I found a lot of similar lists about planning for retirement, and all of them had questions like this:
 
@@ -193,13 +193,13 @@ local.ai.362@gmail.com
 
 
 
-// Critical Reflection
+# // Critical Reflection
 
 This project ended too early… I feel like it has a lot of interesting topics and a great foundation, but in the end I wasn't really able to bring all the information and initial sketches together to make something that pushed it farther. From the start this began to be a problem by addressing what retirement would be for an AI network, especially while trying to keep it from being a very dystopic outcome. Currently it seems AI/ML network and devices are run non stop until they break, but that was the obvious. Trying to move past that, and speculate if the devices were to receive some form downtime or some form of humanhood, while not making them sentient, was difficult. In addition to avoiding the idea of sentient, something I don’t think will happen, was trying to not make the project touch on a lifespan that consisted completely of being worked to death. Then beyond that was the issue of justifying why the devices would get downtime, and what downtime would be.
 
 Even though I feel like this piece should have been more than a half larping, half presentation, introducing people to the union hall and the HappyBlimp™ console, I feel like it unveiled a wealth of starting points for future explorations and pieces. More importantly it made me realize that I’m interesting in several specific areas: IoT and AI/ML over large geographical location, industrial labor, and how AI/ML can act as augmentation and as an extension of the human worker. This piece really has informed me on what my thesis focus is, and given me direction on what I should be doing this summer. I plan on using this foundation to do several pieces over the summer, one of which will be experimenting with Raspberry Pi and potentially long distances. It has also informed my current piece, which uses gestural controls taught to a neural network to control a small robot. After finishing this project I realized that I had only been thinking of the possible ways AI/ML would act as an extension of the human worker, but I had never tested it. So with my current piece I decided to make one of the devices from an earlier piece, Intermediary Transcendence Proxy, and see how it would function as an extension of my hand.
 
-// Tools
+# // Tools
 
 Deep Dreamer
 After Effects
